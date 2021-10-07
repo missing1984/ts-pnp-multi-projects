@@ -1,0 +1,12 @@
+{
+  "name": "lib-a",
+  "packageManager": "yarn@3.0.2",
+  "devDependencies": {
+    "@types/react": "^17.0.27",
+    "p-c": "portal:../project-c"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react": "^17.0.2"
+  }
+}
